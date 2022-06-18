@@ -1,8 +1,8 @@
 [![yashikota's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikota&theme=react-dark )](https://github.com/yashikota?tab=repositories)
 
 <p align="left"> 
-  <img alt="Top Langs" height="257px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashikota&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="257px" src="https://github-readme-stats.vercel.app/api?username=yashikota&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashikota&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yashikota&theme=onedark&show_icons=ture" />
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yashikota&theme=onedark&column=7
