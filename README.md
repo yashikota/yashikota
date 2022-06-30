@@ -17,6 +17,7 @@
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=yashikota&bg_color=00000000&hide_border=true&color=777777&line=777777&point=777777" /> -->
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="10%" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="10%" />       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="10%" />          
@@ -54,4 +55,4 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="10%" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="10%" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="10%" /> -->
-          
+</div>
