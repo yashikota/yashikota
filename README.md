@@ -1,7 +1,12 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,vscode,c,python,html,css,js,git,github,md" />
   </a>
+</p> -->
+
+<p aligh="center">
+    <img src="https://simpleicons.org/icons/linux.svg" width="10%">
+    <img src="https://simpleicons.org/icons/ubuntu.svg" width="10%">
 </p>
 
 [![yashikota's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikota&hide_border=true&theme=react-dark )](https://github.com/yashikota?tab=repositories)
