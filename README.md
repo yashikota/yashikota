@@ -1,12 +1,7 @@
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,c,python,html,css,js,git,github,md" />
+<p align="center">
+  <a href="https://github.com/yashikota?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,next,linux,vscode,git,github" />
   </a>
-</p> -->
-
-<p aligh="center">
-    <img src="https://simpleicons.org/icons/linux.svg" width="10%">
-    <img src="https://simpleicons.org/icons/ubuntu.svg" width="10%">
 </p>
 
 [![yashikota's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikota&hide_border=true&theme=react-dark )](https://github.com/yashikota?tab=repositories)
