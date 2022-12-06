@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![yashikota's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikota&hide_border=true&theme=react-dark )](https://github.com/yashikota?tab=repositories)
+[![yashikota's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashikota&hide_border=true&theme=react-dark)](https://github.com/yashikota?tab=repositories)
 
 <!-- <a href="https://github.com/yashikota?tab=repositories" alt="repositories" >
 <img alt="kota's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashikota&langs_count=10&layout=compact&hide_border=true&text_color=777777&bg_color=00000000&border_color=00000000&hide=Jupyter%20Notebook" width="50%" /><img alt="github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=yashikota&hide_border=true&bg_color=00000000&theme=onedark&show_icons=ture"/>
