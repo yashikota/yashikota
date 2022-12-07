@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/yashikota?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,react,next,linux,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,react,next,nodejs,deno,linux,vscode,git,github" />
   </a>
 </p>
 
