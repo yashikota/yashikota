@@ -4,7 +4,7 @@
   </a>
 </p>
 
-![profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
+[![profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yashikota?tab=repositories)
 
 <!-- [![yashikota's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashikota&hide_border=true&theme=react-dark)](https://github.com/yashikota?tab=repositories) -->
 
