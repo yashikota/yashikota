@@ -14,16 +14,11 @@
 
 ### Works
 
+- [FunBook](https://funbook.pages.dev)
+- [JANcode Generator](https://github.com/yashikota/jancode)
+- [TD4 Emulator](https://github.com/yashikota/td4-py)
 - [OIT Syllabus App](https://github.com/oit-tools/syllabus-frontend)
 - [OIT Syllabus Scraping](https://github.com/oit-tools/syllabus-scraping)
-- [OIT Syllabus API](https://github.com/oit-tools/syllabus-api-deno)
-- [AtCoder Beginner Contest Latest API](https://github.com/yashikota/abc-latest-api)
-- [AtCoder Beginner Contest Notification Bot](https://github.com/yashikota/abc-latest-bot)
-- [JANcode Generator](https://github.com/yashikota/jancode)
-- [Pomodoro Timer](https://github.com/yashikota/pomodoro-timer)
-- [YOLOv5 Auto Annotation Tool](https://github.com/yashikota/auto-annotation)
-- [Minecraft Server Notification Bot](https://github.com/yashikota/minecraft-server-bot)
-- [Aozora Markov Bot](https://github.com/yashikota/aozora-markov)
 
 and more
 
