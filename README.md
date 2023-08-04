@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/yashikota?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=unreal,unity,c,cpp,rust,go,python,pytorch,js,ts,wasm,react,next,deno,vite,linux,vscode,git,github,arduino," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,pytorch,js,ts,react,next,linux,vscode,git,github" />
   </a>
 </p>
 
