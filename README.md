@@ -1,22 +1,10 @@
 ### Skills
 
-<p align="center">
-  <a href="https://github.com/yashikota?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,pytorch,js,ts,react,next,linux,vscode,git,github" />
-  </a>
-</p>
-
-[and more](https://yashikota.com/about)
+<https://yashikota.com/about>
 
 ### Works
 
-- [OIT Syllabus App](https://github.com/oit-tools/syllabus-frontend)
-- [OIT Syllabus Scraping](https://github.com/oit-tools/syllabus-scraping)
-- [JANcode Generator](https://github.com/yashikota/jancode)
-- [FunBook](https://funbook.pages.dev)
-- [TD4 Emulator](https://github.com/yashikota/td4-py)
-
-[and more](https://yashikota.com/projects)
+<https://yashikota.com/projects>
 
 ### Contributions
 
