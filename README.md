@@ -1,10 +1,5 @@
-### Skills
-
-<https://yashikota.com/about>
-
-### Works
-
-<https://yashikota.com/projects>
+| Skills | <https://yashikota.com/about> | Works  | <https://yashikota.com/projects> |  
+|-|-|-|-|
 
 ### Contributions
 
