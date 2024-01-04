@@ -1,6 +1,6 @@
 # https://yashikota.com
 
-### Contributions
+## Contributions
 
 <table align="center">
   <tr>
