@@ -1,7 +1,5 @@
 # https://yashikota.com
 
-## Contributions
-
 <table align="center">
   <tr>
     <td>
