@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="400">
+    <td align="center" width="45%">
       <img src="https://github-readme-stats.vercel.app/api?username=yashikota&show_icons=true&theme=merko" alt="repos-per-languages" alt="stat">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&private=false&username=yashikota&theme=radical&langs_count=10" alt="repos-per-languages">
     </td>
