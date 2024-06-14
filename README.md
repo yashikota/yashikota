@@ -3,8 +3,8 @@
 <table align="center">
   <tr>
     <td align="center" width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=7_days&custom_title=Week%20Stats" alt="wakatime">
-  <!--    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kota&api_domain=wakapi.dev&theme=radical&custom_title=Week%20Stats&layout=compact">   -->
+<!--       <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=last_7_days"> -->
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=last_7_days&api_domain=wakapi.dev">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yashikota&theme=radical&private=false&langs_count=20" alt="repos-per-languages">
     </td>
     <td align="center">
