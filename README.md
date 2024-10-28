@@ -1,10 +1,10 @@
 <!-- # [https://yashikota.com](https://yashikota.com/?source=github) -->
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yashikota&show_icons=true&theme=merko" alt="repos-per-languages" alt="stat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yashikota&theme=radical&private=false&langs_count=20" alt="repos-per-languages">
+      <img src="https://github-readme-stats.vercel.app/api?username=yashikota&show_icons=true&theme=merko" alt="repos-per-languages" alt="stat" width="65%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yashikota&theme=radical&private=false&langs_count=20" alt="repos-per-languages" width="55%">
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=last_7_days&api_domain=wakapi.dev">
