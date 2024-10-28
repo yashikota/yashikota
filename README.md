@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashikota&show_icons=true&theme=merko" alt="repos-per-languages" alt="stat" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=last_7_days&api_domain=wakapi.dev" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=last_7_days&langs_count=20&api_domain=wakapi.dev" width="50%">
 </div>
 
 <!-- 
