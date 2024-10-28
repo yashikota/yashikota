@@ -1,9 +1,14 @@
 <!-- # [https://yashikota.com](https://yashikota.com/?source=github) -->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashikota&show_icons=true&theme=merko" alt="repos-per-languages" alt="stat" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=last_7_days&api_domain=wakapi.dev" width="50%">
+</div>
+
+<!-- 
 <table align="center">
   <tr>
     <td align="center" width="45%">
-<!--       <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=last_7_days"> -->
       <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kota&theme=radical&range=last_7_days&api_domain=wakapi.dev">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yashikota&theme=radical&private=false&langs_count=20" alt="repos-per-languages">
     </td>
@@ -14,3 +19,5 @@
     </td>
   </tr>
 </table>
+ -->
+ 
